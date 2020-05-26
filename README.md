@@ -793,7 +793,7 @@ Some datasets might be hard to download.
   [[project](https://cis.temple.edu/lasot/)]
   [[Data_baidu](https://pan.baidu.com/s/1fePaNl_DShz4X2hk73bnpQ)(code:72yx)]
   
-* **OxUvA long-term dataset+benchmark:** Jack Valmadre, Luca Bertinetto, João F. Henriques, Ran Tao, Andrea Vedaldi, Arnold Smeulders, Philip Torr, Efstratios Gavves.<br />
+* **OxUvA long-term dataset:** Jack Valmadre, Luca Bertinetto, João F. Henriques, Ran Tao, Andrea Vedaldi, Arnold Smeulders, Philip Torr, Efstratios Gavves.<br />
   "Long-term Tracking in the Wild: a Benchmark." ECCV (2018).
   [[paper](https://arxiv.org/pdf/1803.09502.pdf)]
   [[project](https://oxuva.github.io/long-term-tracking-benchmark/)]
