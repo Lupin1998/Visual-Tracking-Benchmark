@@ -872,3 +872,7 @@ Some datasets might be hard to download.
 
 **[[VOT19_paper_ICCV](https://ieeexplore.ieee.org/document/9022051)]The Visual Object Tracking VOT2019 challenge results**
 
+
+
+### Reference
+Visual Tracking Paper List: https://github.com/foolwood/benchmark_results
