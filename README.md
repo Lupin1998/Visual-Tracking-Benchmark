@@ -782,6 +782,8 @@
 
 ## Benchmark
 
+Some datasets might be hard to download.
+
 * **Dataset-VOT:**
   **[[project](http://www.votchallenge.net/)]**
   
@@ -800,6 +802,11 @@
   "TrackingNet: A Large-Scale Dataset and Benchmark for Object Tracking in the Wild." ECCV (2018).
   [[project](https://silviogiancola.github.io/publication/2018-03-trackingnet/details/)]
   [[paper](https://arxiv.org/pdf/1803.10794.pdf)] 
+
+* **GOT-10k:** Lianghua Huang, Xin Zhao, Kaiqi Huang.<br />
+  "GOT-10k: A Large High-Diversity Benchmark for Generic Object Tracking in the Wild." TPAMI (2018).
+  [[project](http://got-10k.aitestunion.com)]
+  [[paper](http://arxiv.org/abs/1810.11981.pdf)]
 
 * **UAVDT:** Dawei Du, Yuankai Qi, Hongyang Yu, Yifang Yang, Kaiwen Duan, GuoRong Li, Weigang Zhang,  Weihai; Qingming Huang, Qi Tian.<br />
   "The Unmanned Aerial Vehicle Benchmark: Object Detection and Tracking." ECCV (2018).
