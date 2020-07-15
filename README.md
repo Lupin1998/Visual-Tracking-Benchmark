@@ -17,7 +17,7 @@
 
 - **TLPG:** Siyuan Li, Zhi Zhang, Ziyu Liu, Anna Wang, Linglong Qiu, Feng Du.<br />
   "TLPG-Tracker: Joint Learning of Target Localization and Proposal Generation for Visual Tracking." IJCAI (2020).
-  [[github](https://github.com/Lupin1998/TLPG_Tracker)]
+  [[github](https://www.ijcai.org/Proceedings/2020/99)]
   
 ### CVPR2020
 
